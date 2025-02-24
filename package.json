@@ -1,0 +1,13 @@
+{
+  "name": "typingjs",
+  "version": "1.0.0",
+  "description": "Enables dynamically typing HTML tags",
+  "main": "typing.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forestfull/typingjs.git"
+  },
+  "keywords": ["typing"],
+  "author": "vigfoot",
+  "license": "Apache"
+}

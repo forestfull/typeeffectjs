@@ -1,2 +1,1 @@
-# typingjs
-enables dynamically typing tags
+Enables dynamically typing HTML tags
